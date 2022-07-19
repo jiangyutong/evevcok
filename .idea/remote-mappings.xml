@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://zlz422@192.168.0.254:22/home/zlz422/anaconda3/envs/jyt_EvoSkeleton_new/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/media/zlz422/4c5bc93a-b9bd-41e4-9c3e-f713d29f31a3/jyt/EvoSkeleton" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://zlz422@192.168.0.254:22/home/zlz422/anaconda3/envs/generative_pose/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/media/zlz422/4c5bc93a-b9bd-41e4-9c3e-f713d29f31a3/jyt/EvoSkeleton" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://zlz422@192.168.0.254:22/home/zlz422/anaconda3/envs/jyt_EvoSkeleton/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/media/zlz422/4c5bc93a-b9bd-41e4-9c3e-f713d29f31a3/jyt/EvoSkeletonCopy" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://zlz422@192.168.0.232:22/home/zlz422/anaconda3/envs/jyt/jyt_EvoSkeleton/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/media/zlz422/82BEDFE2BEDFCD33/jyt/project/EvSkeleton" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
